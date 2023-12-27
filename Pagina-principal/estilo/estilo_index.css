@@ -87,12 +87,17 @@ main {
 }
 
 main h1 {
-  text-align: center;
+  text-align: left;
   line-height: 2em;
   font-weight: bold;
 }
 
+main h2 {
+  text-align: left;
+}
+
 main p {
+  padding-bottom: 20px;
   font-weight: bold;
   text-indent: 30px;
   line-height: 2em;
@@ -100,6 +105,6 @@ main p {
 }
 
 footer { 
-
+  font-family: Arial, Helvetica, sans-serif;
 }
 
